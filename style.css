@@ -1,0 +1,51 @@
+html {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 300%;
+    border: 5px solid black;
+
+}
+
+p {
+    font-size: 150%;
+}
+
+p.uno {
+    border-top: 20px double red;
+    border-left: 20px double red;
+}
+
+p.dos {
+    border-top: 5px dashed blue;
+    border-bottom: 20px dashed blue;
+    border-left: 40px solid green;
+    border-right: 10px dashed green;
+}
+
+p.tres {
+    border: 40px double gold;
+    border-left-width: 10px;
+    border-right-width: 10px;
+}
+
+p.cuatro {
+    border-top: 20px solid lime;
+    border-bottom: 20px solid blue;
+}
+
+p.cinco {
+    border: 40px solid black;
+    border-bottom-style: dotted;
+    border-top: 40px dashed red;
+}
+
+p.seis {
+    border-top: 10px dotted black;
+    border-bottom: 20px dashed black;
+    border-left: 40px double red;
+    border-right: 40px solid black;
+}
